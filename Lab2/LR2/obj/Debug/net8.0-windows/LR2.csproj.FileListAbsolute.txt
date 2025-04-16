@@ -1,0 +1,16 @@
+D:\учеба\КГ\LR2\LR2\bin\Debug\net8.0-windows\LR2.exe
+D:\учеба\КГ\LR2\LR2\bin\Debug\net8.0-windows\LR2.deps.json
+D:\учеба\КГ\LR2\LR2\bin\Debug\net8.0-windows\LR2.runtimeconfig.json
+D:\учеба\КГ\LR2\LR2\bin\Debug\net8.0-windows\LR2.dll
+D:\учеба\КГ\LR2\LR2\bin\Debug\net8.0-windows\LR2.pdb
+D:\учеба\КГ\LR2\LR2\obj\Debug\net8.0-windows\LR2.Form1.resources
+D:\учеба\КГ\LR2\LR2\obj\Debug\net8.0-windows\LR2.csproj.GenerateResource.cache
+D:\учеба\КГ\LR2\LR2\obj\Debug\net8.0-windows\LR2.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\КГ\LR2\LR2\obj\Debug\net8.0-windows\LR2.AssemblyInfoInputs.cache
+D:\учеба\КГ\LR2\LR2\obj\Debug\net8.0-windows\LR2.AssemblyInfo.cs
+D:\учеба\КГ\LR2\LR2\obj\Debug\net8.0-windows\LR2.csproj.CoreCompileInputs.cache
+D:\учеба\КГ\LR2\LR2\obj\Debug\net8.0-windows\LR2.dll
+D:\учеба\КГ\LR2\LR2\obj\Debug\net8.0-windows\refint\LR2.dll
+D:\учеба\КГ\LR2\LR2\obj\Debug\net8.0-windows\LR2.pdb
+D:\учеба\КГ\LR2\LR2\obj\Debug\net8.0-windows\LR2.genruntimeconfig.cache
+D:\учеба\КГ\LR2\LR2\obj\Debug\net8.0-windows\ref\LR2.dll
